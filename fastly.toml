@@ -1,0 +1,5 @@
+manifest_version = 3
+name = "clay.frrs.dev"
+description = "my personal site"
+authors = ["clay@frrs.dev"]
+service_id = "SHXj7wFXX01gvmlaeVsil2"
